@@ -34,6 +34,6 @@ The major aim of thie project is to gain insight into the sales data of Walmart 
 
 2. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
 
-3. **Conclusion:**
+3. **Conclusion:** refer the observations in the analysis.
 
 ```
